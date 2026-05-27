@@ -54,3 +54,4 @@ Outside of work I keep small projects that mix software with the things I'd be d
     <img src="https://img.shields.io/badge/LinkedIn-thais--simoes-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
